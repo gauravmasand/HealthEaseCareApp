@@ -1,5 +1,18 @@
-
 # health_care_app
+
+ - Introducing HealthEase comprehensive healthcare companion designed for simplified access to vital medical services. Our platform redefines convenience, offering a suite of features that cater to all your healthcare needs.
+- With HealthEase, effortlessly connect with top doctors across various specialties, ensuring the best possible care. Our intuitive interface allows easy browsing of healthcare providers, reading reviews, and booking appointments.
+- In emergencies, HealthEase provides instant access to ambulance assistance. Locate the nearest ambulance with a few taps for prompt and reliable emergency care.
+Managing medications is hassle-free with HealthEase. Purchase medicines online by uploading your prescription and have them delivered to your doorstep.
+HealthEase features a comprehensive hospital directory, making it easy to find nearby healthcare facilities, whether it's a specialist clinic or a full-fledged hospital.
+
+### Video
+[![Video Title](https://img.youtube.com/vi/OiK6bT23ovA/0.jpg)](https://www.youtube.com/watch?v=OiK6bT23ovA)
+
+### App Download Link:
+[Download APK](https://rb.gy/d18cn5)
+
+
 ### Table of contents
 - [System requirements](#system-requirements)
 - [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)
